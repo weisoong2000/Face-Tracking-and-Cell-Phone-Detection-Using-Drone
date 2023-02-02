@@ -11,6 +11,9 @@ Try main.py
 
 Otherwise try main1.py
 
+Demo video:
+https://www.youtube.com/playlist?list=PLMCdOP4S409S5Fde6xurY-hNImEcIyG1W
+
 Note:
 
 Resources folder should put in the telloPython folder.
