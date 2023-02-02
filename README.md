@@ -10,3 +10,7 @@ Group member:
 Try main.py
 
 Otherwise try main1.py
+
+Note:
+
+Resources folder should put in the telloPython folder.
