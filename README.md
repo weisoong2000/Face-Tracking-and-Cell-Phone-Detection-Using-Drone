@@ -6,3 +6,6 @@ Project 2
 Group member:
 1. Wong Wei Soong A180106
 2. Chen Yiling A178587
+
+Try main.py
+Otherwise try main1.py
